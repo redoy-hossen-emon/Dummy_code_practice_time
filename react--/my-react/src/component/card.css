@@ -1,0 +1,43 @@
+
+.sboxtitle {
+  font-size: 13px;
+  padding: 21px 0;
+  color: #221f1f
+}
+
+.siglebox {
+  width: 194px;
+  float: left;
+  margin-right: 33px;
+  border: 1px solid #ddd;
+  text-align: center;
+  transition: 1s;
+  padding: 20px;
+  background-color: aquamarine;
+  
+}
+
+.scale1{
+  transform: scaleX(0);
+    transform-origin: left;
+}
+
+.siglebox:hover {
+  background: #ff5200
+}
+
+.siglebox:hover h2 {
+  color: #fff
+}
+
+.siglebox:hover i {
+  color: #fff
+}
+
+.siglebox:hover div {
+  color: #fff
+}
+
+.siglebox:hover a {
+  color: #fff
+}
